@@ -1,0 +1,27 @@
+# GitHub Skills / Learning Lab
+https://github.com/skills/*
+https://skills.github.com/*
+https://lab.github.com/*
+https://githubtraining.github.io/*
+
+# PRs and issues that may not exist long-term
+https://github.com/*/pull/*
+https://github.com/*/issues/*
+
+# GitHub API endpoints
+https://api.github.com/*
+
+# GitHub Pages build artifacts
+https://*.github.io/*/assets/*
+https://*.github.io/*/node_modules/*
+
+# Localhost / loopback
+http://localhost*
+http://127.0.0.1*
+http://0.0.0.0*
+
+# Mailto links
+mailto:*
+
+# Temporary redirects
+https://github.com/*?tab=readme-ov-file
